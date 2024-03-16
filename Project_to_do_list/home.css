@@ -23,7 +23,9 @@
 }
 
 .to-do-list h2{
-    font-size: 25px;
+    margin: 0 auto;
+    width: max-content;
+    font-size: 35px;
     margin-bottom: 25px;
     color: white;
 }
